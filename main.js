@@ -3,6 +3,7 @@
 // Declare another variable, greeting, and assign it a string value like "Hello, ".
 // Concatenate greeting and name together and store it in a new variable called welcomeMessage.
 // Display welcomeMessage using console.log().var name = 'Omar';
+var name = 'Omar';
 var greeting = 'Hello, nice to meet you ';
 var welcomemessage = greeting + name;
 console.log(welcomemessage);
